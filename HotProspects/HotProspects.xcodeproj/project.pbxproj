@@ -26,6 +26,7 @@
 		412112162A81A8DC000FB84A /* Prospect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412112152A81A8DC000FB84A /* Prospect.swift */; };
 		412112192A81C39A000FB84A /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = 412112182A81C39A000FB84A /* CodeScanner */; };
 		4121121B2A82EC1D000FB84A /* ImageSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4121121A2A82EC1D000FB84A /* ImageSaver.swift */; };
+		4121121D2A82FBB6000FB84A /* FileManger-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4121121C2A82FBB6000FB84A /* FileManger-DocumentsDirectory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		412112132A81A165000FB84A /* MeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeView.swift; sourceTree = "<group>"; };
 		412112152A81A8DC000FB84A /* Prospect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prospect.swift; sourceTree = "<group>"; };
 		4121121A2A82EC1D000FB84A /* ImageSaver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageSaver.swift; sourceTree = "<group>"; };
+		4121121C2A82FBB6000FB84A /* FileManger-DocumentsDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManger-DocumentsDirectory.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				412111EF2A7F06E1000FB84A /* ContentView.swift */,
 				412112152A81A8DC000FB84A /* Prospect.swift */,
 				412112112A81A155000FB84A /* ProspectsView.swift */,
+				4121121C2A82FBB6000FB84A /* FileManger-DocumentsDirectory.swift */,
 				412112132A81A165000FB84A /* MeView.swift */,
 				4121121A2A82EC1D000FB84A /* ImageSaver.swift */,
 				412111FD2A80536D000FB84A /* Tutorial */,
@@ -208,6 +211,7 @@
 				412112052A8061BA000FB84A /* ControllingImageInterpolation.swift in Sources */,
 				412112012A8058AB000FB84A /* ManuallyPublishingObservableObjectChanges.swift in Sources */,
 				412112032A805B61000FB84A /* ResultType.swift in Sources */,
+				4121121D2A82FBB6000FB84A /* FileManger-DocumentsDirectory.swift in Sources */,
 				412112092A81861C000FB84A /* CustomSwipeActionsSwift.swift in Sources */,
 				412111FC2A805368000FB84A /* CustomValuesEnvironmentObject.swift in Sources */,
 				412112142A81A165000FB84A /* MeView.swift in Sources */,
